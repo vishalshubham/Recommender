@@ -1,0 +1,15 @@
+CLRS	http://amazon.com/clrs	books	10/08/2015	vishal
+Ipod Touch	http://amazon.com/ipodtouch	music	12/08/2015	vishal
+Ipod Touch	http://amazon.com/ipodtouch	music	12/08/2015	vishal
+CLRS	http://amazon.com/clrs	books	12/08/2015	vishal
+CLRS	http://amazon.com/clrs	books	14/08/2015	vishal
+Ipod Touch	http://amazon.com/ipodtouch	music	13/08/2015	vishal
+Ipod Touch	http://amazon.com/ipodtouch	music	15/08/2015	vishal
+Ipod Touch	http://amazon.com/ipodtouch	music	17/08/2015	vishal
+CLRS	http://amazon.com/clrs	books	23/08/2015	vishal
+Ipod Touch	http://amazon.com/ipodtouch	music	25/08/2015	vishal
+CLRS	http://amazon.com/clrs	books	25/08/2015	vishal
+Ipod Touch	http://amazon.com/ipodtouch	music	26/08/2015	vishal
+Ipod Touch	http://amazon.com/ipodtouch	music	27/08/2015	vishal
+Ipod Touch	http://amazon.com/ipodtouch	music	28/08/2015	vishal
+CLRS	http://amazon.com/clrs	books	28/08/2015	vishal
